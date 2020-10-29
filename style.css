@@ -36,6 +36,7 @@
   }
   
   .logo {
+    color: aquamarine;
     font-weight: bold;
     font-size: 24px;
     margin: 0;
@@ -68,6 +69,10 @@
     font-weight: bold;
     line-height: 1.1;
     margin-bottom: 70px;
+  }
+
+  .nowork {
+    color: aquamarine;
   }
   
   .footer {
